@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Root but trendy - Ayamé"
+
+theme = "ticky_tacky_dark"
+
+[params]
+    favicon = "favicon.ico"
+    description = "The demonstration page for the Hugo Ticky Tacky Dark theme."
+    images = ["img/header.png"]
+    headername = "Root@Ayamé"
+    #msvalidate = ""
+    #googlesiteverification = ""
+
+[Author]
+    name = "Ayamé"
+    email = "toto@gmail.com"
