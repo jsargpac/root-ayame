@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/circuit/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/circuit/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/ayame/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/ayame/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/lodge/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/lodge/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/about/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jsargpac.github.io/root-ayame/tags/</loc>
   </url>
   
 </urlset>

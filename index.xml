@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Root but trendy - Ayamé</title>
-    <link>http://example.org/</link>
+    <link>https://jsargpac.github.io/root-ayame/</link>
     <description>Recent content on Root but trendy - Ayamé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>toto@gmail.com (Ayamé)</webMaster>
     <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jsargpac.github.io/root-ayame/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Le circuit</title>
-      <link>http://example.org/circuit/</link>
+      <link>https://jsargpac.github.io/root-ayame/circuit/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <author>toto@gmail.com (Ayamé)</author>
-      <guid>http://example.org/circuit/</guid>
+      <guid>https://jsargpac.github.io/root-ayame/circuit/</guid>
       <description>Bienvenue à Ayamé et son lac artificiel ! Pendant ces deux jours, nous vous proposons un circuit d&amp;rsquo;exception root but trendy.
 Le circuit vous amènera à traverser le lac artificiel en pirogue à travers les troncs des arbres immergés pendant 45 minutes. Les gilets de sauvetage sont fournis.
 Une fois arrivé sur l&#39;île, une heure de marche modérée est nécessaire pour atteindre le campement.
@@ -27,20 +27,20 @@ Durant cette randonnée, vous traverserez le cimetière des bois morts en zig-za
     
     <item>
       <title>Ayamé</title>
-      <link>http://example.org/ayame/</link>
+      <link>https://jsargpac.github.io/root-ayame/ayame/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <author>toto@gmail.com (Ayamé)</author>
-      <guid>http://example.org/ayame/</guid>
+      <guid>https://jsargpac.github.io/root-ayame/ayame/</guid>
       <description>Ayamé est une ville à 2h30 d&amp;rsquo;Abidjan.
 Ayamé offre une diversité de curiosités à découvrir. Au nombre de celles-ci, les barrages hydroélectriques d&amp;rsquo;Ayamé 1 et 2 tiennent une place de choix. Eu égard à la stature de leurs constructions architecturales, des moyens investis, de leur renommée et du fait qu&amp;rsquo;ils sont les premiers barrages hydroélectriques construits en Côte d’Ivoire. Le lac artificiel d&amp;rsquo;Ayamé est de 197 km2 et a été construit en 1959 sur le fleuve côtier Bia.</description>
     </item>
     
     <item>
       <title>Le lodge</title>
-      <link>http://example.org/lodge/</link>
+      <link>https://jsargpac.github.io/root-ayame/lodge/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <author>toto@gmail.com (Ayamé)</author>
-      <guid>http://example.org/lodge/</guid>
+      <guid>https://jsargpac.github.io/root-ayame/lodge/</guid>
       <description>Un lodge rustique mais avec le confort pour y psser une excellente nuit, bercé par le bruit de la nature. 5 chambres, ouvertes sur l&amp;rdquo;&amp;lsquo;extérieur, avec une moustiquaire autour de chaque lit, vous attendent.
 Aboubacar et sa famille sont à vôtre écoute pour vous faire vivre la meilleure expérience possible.
 Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
@@ -48,10 +48,10 @@ Written in Go, Hugo is an open source static site generator available under the 
     
     <item>
       <title>A propos</title>
-      <link>http://example.org/about/</link>
+      <link>https://jsargpac.github.io/root-ayame/about/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <author>toto@gmail.com (Ayamé)</author>
-      <guid>http://example.org/about/</guid>
+      <guid>https://jsargpac.github.io/root-ayame/about/</guid>
       <description>Aboubacar, originaire de la région, vous prendra en charge dès votre arrivée à Ayamé.
 Sa famille habite au campement où vous dormirez et sera à votre écoute. Noix de coco, oranges, mangue, ananas, café maison, vous n&amp;rsquo;aurez que l&amp;rsquo;embarras du choix et ils vous couvrirons de fruits dès votre arrivée, aucune crainte à avoir sur l&amp;rsquo;alimentation, vous devrez même faire attention à votre ligne !</description>
     </item>
