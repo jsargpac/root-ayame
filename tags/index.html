@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Root but trendy - Ayamé</title>
+<meta name="description" content="The demonstration page for the Hugo Ticky Tacky Dark theme.">
+<meta name="author" content="Ayamé">
+<link rel="icon" href="/favicon.ico"><meta property="og:title" content="Tags" />
+<meta property="og:description" content="The demonstration page for the Hugo Ticky Tacky Dark theme." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://example.org/tags/" />
+<meta property="og:image" content="http://example.org/img/header.png"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://example.org/img/header.png"/>
+
+<meta name="twitter:title" content="Tags"/>
+<meta name="twitter:description" content="The demonstration page for the Hugo Ticky Tacky Dark theme."/>
+
+
+<meta name="robots" content="index,follow">
+<meta name="referrer" content="origin-when-cross-origin">
+
+
+<meta name="generator" content="Hugo 0.67.1" />
+
+<link href="/tags/index.xml" rel="alternate" type="application/rss+xml" title="Root but trendy - Ayamé" />
+<link href="/tags/index.xml" rel="feed" type="application/rss+xml" title="Root but trendy - Ayamé" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<link rel="stylesheet" href="/css/myscreen.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/myprint.css" type="text/css" media="print">
+<meta name="theme-color" content="black">
+
+<link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+
+<noscript>
+    <style>
+        
+            #headerimg {
+                background-image: url(http://example.org/img/header.png);
+                background-size: cover;
+            }
+        
+        
+    </style>
+</noscript>
+
+<script>
+    
+    function randomHeaderImg() {
+        let images = ["http://example.org/img/header.png"];
+        let img_ind = Math.ceil(Math.random() * images.length) - 1;
+        let sel_url = images[img_ind]
+        let img = new Image();
+        img.onload = function() {
+            function set_img(old_onload) {
+                let element = document.getElementById("headerimg");
+                element.src = sel_url;
+                if( old_onload ){ old_onload() }
+            }
+            if( document.readyState === "complete" ) { set_img() }
+            else { window.onload = set_img(window.onload) }
+        }
+        img.src = sel_url;
+    }
+    randomHeaderImg();
+    
+    
+</script>
+</head>
+    <body>
+        <div id="full_body">
+            <header id="header" class="top-section"><img id="headerimg" class="veryrounded" src="/img/header_template.png" alt="">
+<div id="header-text">Root@Ayamé</div></header>
+            <div id="content" class="top-section">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col col-12 col-sm-8 col-lg-9">
+                            <main class="row">
+    
+        <div class="col col-12 col-lg-6 imgbtntxt">
+            <a class="imgbtntxt" href="/circuit/">
+                <img class="morerounded" height="300" width="300" src="/img/circuit_r.png" alt="Le circuit">
+                <br>Le circuit
+            </a>
+        </div>
+    
+        <div class="col col-12 col-lg-6 imgbtntxt">
+            <a class="imgbtntxt" href="/ayame/">
+                <img class="morerounded" height="300" width="300" src="/img/ayame_r.png" alt="Ayamé">
+                <br>Ayamé
+            </a>
+        </div>
+    
+        <div class="col col-12 col-lg-6 imgbtntxt">
+            <a class="imgbtntxt" href="/lodge/">
+                <img class="morerounded" height="300" width="300" src="/img/lodge2_r.png" alt="Le lodge">
+                <br>Le lodge
+            </a>
+        </div>
+    
+        <div class="col col-12 col-lg-6 imgbtntxt">
+            <a class="imgbtntxt" href="/about/">
+                <img class="morerounded" height="300" width="300" src="/img/aboubacar_r.png" alt="A propos">
+                <br>A propos
+            </a>
+        </div>
+    
+
+                            </main>
+                        </div>
+                        <nav class="col col-8 offset-2 col-sm-4 offset-sm-0 col-lg-3"><div class="box morerounded">
+    <ul class="navbar">
+            <li><a href="http://example.org/">Root but trendy - Ayamé</a></li>
+            <li><a href="http://example.org/circuit/">Le circuit</a></li>
+            <li><a href="http://example.org/ayame/">Ayamé</a></li>
+            <li><a href="http://example.org/lodge/">Le lodge</a></li>
+            <li><a href="http://example.org/about/">A propos</a></li>
+    </ul>
+</div>
+</nav>
+                    </div>
+                </div>
+            </div>
+            <footer id="footer" class="top-section">Webmaster: <a href="mailto:toto@gmail.com">toto@gmail.com</a>
+</footer></div>
+    </body>
+</html>
